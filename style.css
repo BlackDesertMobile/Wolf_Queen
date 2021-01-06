@@ -46,3 +46,17 @@ body {
   max-width: 350px;
   margin: 10px;
 }
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+th,
+td {
+  padding: 5px;
+}
+table {
+  margin: 10px;
+}
